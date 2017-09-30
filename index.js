@@ -40,3 +40,5 @@ var $body = document.body //llamamos a body
 var gestos = new Hammer($body);
 gestos.on('swipeleft', hideMenu);
 gestos.on('swiperight', showMenu);
+
+//Aplicando la fuente de google fonts
